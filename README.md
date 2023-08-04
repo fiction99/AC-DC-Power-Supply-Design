@@ -19,8 +19,8 @@ I wanted to implement battery charging capabilities because it wanted the device
 
 Here is the close to final design diagram from my notes:
 
-![alt text](https://github.com/fiction99/AC-DC-Power-Supply-Design/blob/main/media/unnamed (3).jpg)
+![alt text](https://github.com/fiction99/AC-DC-Power-Supply-Design/blob/main/media/unnamed(3).jpg)
 
 ...as well as a layout image I took early on to get an idea of how components should fit.
 
-![alt text](https://github.com/fiction99/AC-DC-Power-Supply-Design/blob/main/media/unnamed (2).jpg)
+![alt text](https://github.com/fiction99/AC-DC-Power-Supply-Design/blob/main/media/unnamed(2).jpg)
