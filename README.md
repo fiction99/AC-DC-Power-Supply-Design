@@ -12,7 +12,7 @@ Executive Summary: The output plots of the AC to DC power supply circuit configu
 
 ![alt text](https://github.com/fiction99/AC-DC-Power-Supply-Design/blob/main/media/IMG-3737.jpg)
 
-This was a self made project built due to my personal need for a working power supply for my electronics projects. As such it required quick selection to common voltage levels as well as a varaible voltage option. 
+This was a project built due to my personal need for a working power supply for my electronics projects. As such it required quick selection to common voltage levels as well as a variable voltage option. 
 
 Future Design Considerations: 
 I wanted to implement battery charging capabilities because it wanted the device to be multipurpose, thoguh in retrospect, 18650 batteries would have been a much more logical choice than AAA due to their pervasiveness in many electronics hobby projects. Also, the chosen chassis has very thin 2mm walls that flex signficiantly when detaching the outlet cable, so if repeated, I would use a thicker walled chassis to solve longevity concerns.
