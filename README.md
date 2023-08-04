@@ -10,5 +10,5 @@ Executive Summary: The output plots of the AC to DC power supply circuit configu
 
 ### 2 ###
 
-![alt text](https://github.com/fiction99/AC-DC-Power-Supply-Design/blob/main/media/PXL_20230531_015030285.jpg)
+![alt text](https://github.com/fiction99/AC-DC-Power-Supply-Design/blob/main/media/IMG-3737.jpg)
 
